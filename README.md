@@ -1,4 +1,4 @@
-# The Waste Bin Location Problem (WBLP): Multi-Scenario Optimisation across 17 Urban Communes
+# Optimising public waste bin locations considering cost and service coverage: A case study in Bucaramanga, Colombia
 
 This repository contains the complete replication package, computational datasets, and source code for the paper titled: *"Optimising public waste bin locations considering cost and service coverage: A case study in Bucaramanga, Colombia"*.
 
